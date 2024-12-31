@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sentiment Analysis Project
 
 ## Description
@@ -52,3 +53,14 @@ A beginner-friendly sentiment analysis project using Python, Flask, and scikit-l
 1. Clone this repository:
 git clone https://github.com/anuroopaanil/sentiment_analysis_project.git
 
+=======
+# sentiment_analysis_project
+A simple sentiment analysis project using Flask and scikit-learn
+>>>>>>> c38ca639fbb8f01e8c65e04b110f9d3852c53276
+
+
+<<<<<<< HEAD
+// your changes
+=======
+// changes from the remote
+>>>>>>> origin/main
